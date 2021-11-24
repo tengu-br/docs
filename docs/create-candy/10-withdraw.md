@@ -3,7 +3,7 @@ sidebar_label: "10. Withdraw Funds"
 ---
 
 # Withdraw Funds
-Candy machines rely on a special account called the config account. This account stores the big list of pointers to assest that will be minted. 
+Candy machines rely on a special account called the config account. This account stores the big list of pointers to assets that will be minted. 
 This data is useless after the candy machine has been fully minted. You can drain this account by using the `withdraw` command.
 
 ```
